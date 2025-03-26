@@ -1,4 +1,4 @@
-﻿//string Cebolinha
+﻿﻿//string Cebolinha
 Console.Clear();
 string fraseDigitada, trocandoRPorL;
 Console.WriteLine("Escleva algo pala mim");
